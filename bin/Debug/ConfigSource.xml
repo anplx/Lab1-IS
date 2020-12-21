@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ConfigDict>
+  <Config>
+    <CPU>Intel Pentium Gold G5420 BOX</CPU>
+    <GPU>Asus GeForce GT 1030 LP</GPU>
+	<RAM>AMD Radeon R7 Performance Series 8 ГБ</RAM>
+	<MotherBoard>ASRock H110M-DGS</MotherBoard>
+	<StorageDevice>Toshiba 1TB</StorageDevice>
+	<PowerSupply>Winard 450W</PowerSupply>
+	<MathSum>11</MathSum>
+  </Config>
+  <Config>
+    <CPU>Intel Pentium Gold G5420 BOX</CPU>
+    <GPU>INNO3D GeForce GTX 1050 Ti Compact</GPU>
+	<RAM>AMD Radeon R7 Performance Series 8 ГБ</RAM>
+	<MotherBoard>ASRock H110M-DGS</MotherBoard>
+	<StorageDevice>Toshiba 1TB</StorageDevice>
+	<PowerSupply>Winard 450W</PowerSupply>
+	<MathSum>12</MathSum>
+  </Config>
+  <Config>
+    <CPU>Intel Core i3-9100F OEM</CPU>
+    <GPU>Встроенная</GPU>
+	<RAM>AMD Radeon R7 Performance Series 16 ГБ</RAM>
+	<MotherBoard>ASRock H110M-DGS</MotherBoard>
+	<StorageDevice>120 ГБ SSD-накопитель AMD Radeon R5 Series</StorageDevice>
+	<PowerSupply>Winard 450W</PowerSupply>
+	<MathSum>13</MathSum>
+  </Config>
+  <Config>
+    <CPU>Intel Core i5-9400F BOX</CPU>
+    <GPU>INNO3D GeForce GTX 1050 Ti Compact</GPU>
+	<RAM>AMD Radeon R7 Performance Series 16 ГБ</RAM>
+	<MotherBoard>GIGABYTE B365M DS3H</MotherBoard>
+	<StorageDevice>Toshiba 1TB</StorageDevice>
+	<PowerSupply>Winard 450W</PowerSupply>
+	<MathSum>21</MathSum>
+  </Config>
+  <Config>
+    <CPU>Intel Core i5-9400F BOX</CPU>
+    <GPU>MSI GeForce GTX 1660 Ti GAMING</GPU>
+	<RAM>AMD Radeon R7 Performance Series 16 ГБ</RAM>
+	<MotherBoard>GIGABYTE B365M DS3H</MotherBoard>
+	<StorageDevice>Toshiba 1TB</StorageDevice>
+	<PowerSupply>Winard 450W</PowerSupply>
+	<MathSum>22</MathSum>
+  </Config>
+  <Config>
+    <CPU>Intel Core i5-9400F BOX</CPU>
+    <GPU>MSI GeForce GTX 1660 Ti GAMING 6GB</GPU>
+	<RAM>AMD Radeon R7 Performance Series 16 ГБ</RAM>
+	<MotherBoard>GIGABYTE B365M DS3H</MotherBoard>
+	<StorageDevice>240 ГБ SSD-накопитель AMD Radeon R5 Series</StorageDevice>
+	<PowerSupply>Winard 450W</PowerSupply>
+	<MathSum>23</MathSum>
+  </Config>
+  <Config>
+    <CPU>Intel Core i9-10900KF BOX</CPU>
+    <GPU>MSI GeForce GTX 1660 Ti GAMING 6GB</GPU>
+	<RAM>AMD Radeon R7 Performance Series 32 ГБ</RAM>
+	<MotherBoard>ASRock H410M/ac</MotherBoard>
+	<StorageDevice>240 ГБ SSD-накопитель AMD Radeon R5 Series</StorageDevice>
+	<PowerSupply>Winard 650W</PowerSupply>
+	<MathSum>31</MathSum>
+  </Config>
+  <Config>
+    <CPU>Intel Core i9-10900KF BOX</CPU>
+    <GPU>Palit GeForce RTX 2080 Super Gaming PRO</GPU>
+	<RAM>AMD Radeon R7 Performance Series 32 ГБ</RAM>
+	<MotherBoard>ASRock H410M/ac</MotherBoard>
+	<StorageDevice>240 ГБ SSD-накопитель AMD Radeon R5 Series</StorageDevice>
+	<PowerSupply>Winard 650W</PowerSupply>
+	<MathSum>32</MathSum>
+  </Config>
+  <Config>
+    <CPU>Intel Core i9-10900KF BOX</CPU>
+    <GPU>MSI GeForce GTX 1660 Ti GAMING</GPU>
+	<RAM>AMD Radeon R7 Performance Series 32 ГБ</RAM>
+	<MotherBoard>ASRock H410M/ac</MotherBoard>
+	<StorageDevice>240 ГБ SSD-накопитель AMD Radeon R5 Series</StorageDevice>
+	<PowerSupply>Winard 650W</PowerSupply>
+	<MathSum>33</MathSum>
+  </Config>
+  <Config>
+    <CPU>Intel Core i3 1005G1 2x1.2 ГГц</CPU>
+    <GPU>Intel UHD встроенная</GPU>
+	<RAM>DDR4 8 ГБ 2133 МГц</RAM>
+	<MotherBoard>Acer Aspire 3 A315-56-39N0</MotherBoard>
+	<StorageDevice>256 ГБ SSD</StorageDevice>
+	<PowerSupply>Li-Pol</PowerSupply>
+	<MathSum>111</MathSum>
+  </Config>
+  <Config>
+    <CPU>AMD Ryzen 3 4300U 4х2.7 ГГц</CPU>
+    <GPU>AMD Radeon Vega 5</GPU>
+	<RAM>DDR4 8 ГБ 2700 МГц</RAM>
+	<MotherBoard>ASUS VivoBook S14 M433IA-EB450T</MotherBoard>
+	<StorageDevice>256 ГБ SSD</StorageDevice>
+	<PowerSupply>Li-Pol</PowerSupply>
+	<MathSum>112</MathSum>
+  </Config>
+  <Config>
+    <CPU>Intel Pentium Gold Gold 5405U</CPU>
+    <GPU>Intel UHD встроенная</GPU>
+	<RAM>DDR4 8 ГБ 2133 МГц</RAM>
+	<MotherBoard>ASUS Laptop F509FA-BR916T</MotherBoard>
+	<StorageDevice>256 ГБ SSD</StorageDevice>
+	<PowerSupply>Li-Pol</PowerSupply>
+	<MathSum>113</MathSum>
+  </Config>
+  <Config>
+    <CPU>AMD Ryzen 5 4600H 6х3 ГГц</CPU>
+    <GPU>INNO3D GeForce GTX 1050 Ti Compact</GPU>
+	<RAM>DDR4 8 ГБ 3200 МГц</RAM>
+	<MotherBoard>ASUS TUF Gaming A15 FX506IH-HN190T</MotherBoard>
+	<StorageDevice>512 ГБ SSD</StorageDevice>
+	<PowerSupply>Li-Pol 4240 мА*ч</PowerSupply>
+	<MathSum>121</MathSum>
+  </Config>
+  <Config>
+    <CPU>Intel Core i7 9750H 6х2.6 ГГц</CPU>
+    <GPU>MSI GeForce GTX 1660 Ti GAMING 6GB</GPU>
+	<RAM>AMD Radeon R7 Performance Series 16 ГБ</RAM>
+	<MotherBoard>MSI GF75 9SCSR-453XRU</MotherBoard>
+	<StorageDevice>512 ГБ SSD</StorageDevice>
+	<PowerSupply>Li-Pol 4240 мА*ч</PowerSupply>
+	<MathSum>122</MathSum>
+  </Config>
+  <Config>
+    <CPU>AMD Ryzen 5 4600H 6х3 ГГц</CPU>
+    <GPU>Radeon Vega 10</GPU>
+	<RAM>DDR4 16 ГБ 3200 МГц</RAM>
+	<MotherBoard>Huawei MateBook D14</MotherBoard>
+	<StorageDevice>512 ГБ SSD</StorageDevice>
+	<PowerSupply>Li-Pol 4240 мА*ч</PowerSupply>
+	<MathSum>123</MathSum>
+  </Config>
+  <Config>
+    <CPU>AMD Ryzen 7 4800H 8х2.9 ГГц</CPU>
+    <GPU>MSI GeForce GTX 1660 Ti GAMING 6GB</GPU>
+	<RAM>DDR4 16 ГБ 3200 МГц</RAM>
+	<MotherBoard>ASUS TUF Gaming A15</MotherBoard>
+	<StorageDevice>512 ГБ SSD</StorageDevice>
+	<PowerSupply>Li-Pol 5845 мА*ч</PowerSupply>
+	<MathSum>131</MathSum>
+  </Config>
+  <Config>
+    <CPU>AMD Ryzen 9 4900H 8х3.3 ГГц</CPU>
+    <GPU>nVidia GeForce RTX 2060 GDDR6 6GB</GPU>
+	<RAM>DDR4 16 ГБ 3200 МГц</RAM>
+	<MotherBoard>ASUS TUF Gaming A15</MotherBoard>
+	<StorageDevice>512 ГБ SSD</StorageDevice>
+	<PowerSupply>Li-Pol 5845 мА*ч</PowerSupply>
+	<MathSum>132</MathSum>
+  </Config>
+  <Config>
+    <CPU>Intel Core i5 Core i5 8210Y 2х1.6 ГГц</CPU>
+    <GPU>Intel Intel UHD 617</GPU>
+	<RAM>LPDDR3 8 ГБ 2133 МГц</RAM>
+	<MotherBoard>Apple MacBook Air</MotherBoard>
+	<StorageDevice>256 ГБ SSD</StorageDevice>
+	<PowerSupply>Li-Pol 4240 мА*ч</PowerSupply>
+	<MathSum>133</MathSum>
+  </Config>
+</ConfigDict>

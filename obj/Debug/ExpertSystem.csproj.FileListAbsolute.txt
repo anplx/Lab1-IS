@@ -1,0 +1,46 @@
+C:\MyFiles\Study\Интелектуальные системы\ExpertSystem\bin\Debug\ExpertSystem.exe.config
+C:\MyFiles\Study\Интелектуальные системы\ExpertSystem\bin\Debug\ExpertSystem.exe
+C:\MyFiles\Study\Интелектуальные системы\ExpertSystem\bin\Debug\ExpertSystem.pdb
+C:\MyFiles\Study\Интелектуальные системы\ExpertSystem\obj\Debug\ExpertSystem.csprojAssemblyReference.cache
+C:\MyFiles\Study\Интелектуальные системы\ExpertSystem\obj\Debug\ExpertSystem.Form1.resources
+C:\MyFiles\Study\Интелектуальные системы\ExpertSystem\obj\Debug\ExpertSystem.FormQuestionOne.resources
+C:\MyFiles\Study\Интелектуальные системы\ExpertSystem\obj\Debug\ExpertSystem.Properties.Resources.resources
+C:\MyFiles\Study\Интелектуальные системы\ExpertSystem\obj\Debug\ExpertSystem.csproj.GenerateResource.cache
+C:\MyFiles\Study\Интелектуальные системы\ExpertSystem\obj\Debug\ExpertSystem.csproj.CoreCompileInputs.cache
+C:\MyFiles\Study\Интелектуальные системы\ExpertSystem\obj\Debug\ExpertSystem.exe
+C:\MyFiles\Study\Интелектуальные системы\ExpertSystem\obj\Debug\ExpertSystem.pdb
+C:\MyFiles\Study\Интелектуальные системы\ExpertSystem\obj\Debug\ExpertSystem.FormQuestionTwo.resources
+C:\MyFiles\Study\Интелектуальные системы\ExpertSystem\obj\Debug\ExpertSystem.FormQuestionThree.resources
+C:\MyFiles\Study\Интелектуальные системы\ExpertSystem\obj\Debug\ExpertSystem.FormResult.resources
+C:\Users\Buddy\Desktop\ExpertSystem\bin\Debug\ExpertSystem.exe.config
+C:\Users\Buddy\Desktop\ExpertSystem\bin\Debug\ExpertSystem.exe
+C:\Users\Buddy\Desktop\ExpertSystem\bin\Debug\ExpertSystem.pdb
+C:\Users\Buddy\Desktop\ExpertSystem\obj\Debug\ExpertSystem.csprojAssemblyReference.cache
+C:\Users\Buddy\Desktop\ExpertSystem\obj\Debug\ExpertSystem.Form1.resources
+C:\Users\Buddy\Desktop\ExpertSystem\obj\Debug\ExpertSystem.FormQuestionOne.resources
+C:\Users\Buddy\Desktop\ExpertSystem\obj\Debug\ExpertSystem.FormQuestionThree.resources
+C:\Users\Buddy\Desktop\ExpertSystem\obj\Debug\ExpertSystem.FormQuestionTwo.resources
+C:\Users\Buddy\Desktop\ExpertSystem\obj\Debug\ExpertSystem.FormResult.resources
+C:\Users\Buddy\Desktop\ExpertSystem\obj\Debug\ExpertSystem.Properties.Resources.resources
+C:\Users\Buddy\Desktop\ExpertSystem\obj\Debug\ExpertSystem.csproj.GenerateResource.cache
+C:\Users\Buddy\Desktop\ExpertSystem\obj\Debug\ExpertSystem.csproj.CoreCompileInputs.cache
+C:\Users\Buddy\Desktop\ExpertSystem\obj\Debug\ExpertSystem.exe
+C:\Users\Buddy\Desktop\ExpertSystem\obj\Debug\ExpertSystem.pdb
+C:\Users\danil\Downloads\ExpertSystem (2)\ExpertSystem\bin\Debug\ExpertSystem.exe.config
+C:\Users\danil\Downloads\ExpertSystem (2)\ExpertSystem\bin\Debug\ExpertSystem.exe
+C:\Users\danil\Downloads\ExpertSystem (2)\ExpertSystem\bin\Debug\ExpertSystem.pdb
+C:\Users\danil\Downloads\ExpertSystem (2)\ExpertSystem\obj\Debug\ExpertSystem.csprojAssemblyReference.cache
+C:\Users\danil\Downloads\ExpertSystem (2)\ExpertSystem\obj\Debug\ExpertSystem.CPU.resources
+C:\Users\danil\Downloads\ExpertSystem (2)\ExpertSystem\obj\Debug\ExpertSystem.Form1.resources
+C:\Users\danil\Downloads\ExpertSystem (2)\ExpertSystem\obj\Debug\ExpertSystem.FormQuestionOne.resources
+C:\Users\danil\Downloads\ExpertSystem (2)\ExpertSystem\obj\Debug\ExpertSystem.FormQuestionThree.resources
+C:\Users\danil\Downloads\ExpertSystem (2)\ExpertSystem\obj\Debug\ExpertSystem.FormQuestionTwo.resources
+C:\Users\danil\Downloads\ExpertSystem (2)\ExpertSystem\obj\Debug\ExpertSystem.FormResult.resources
+C:\Users\danil\Downloads\ExpertSystem (2)\ExpertSystem\obj\Debug\ExpertSystem.GPU.resources
+C:\Users\danil\Downloads\ExpertSystem (2)\ExpertSystem\obj\Debug\ExpertSystem.Properties.Resources.resources
+C:\Users\danil\Downloads\ExpertSystem (2)\ExpertSystem\obj\Debug\ExpertSystem.RAM.resources
+C:\Users\danil\Downloads\ExpertSystem (2)\ExpertSystem\obj\Debug\ExpertSystem.StorageDevice.resources
+C:\Users\danil\Downloads\ExpertSystem (2)\ExpertSystem\obj\Debug\ExpertSystem.csproj.GenerateResource.cache
+C:\Users\danil\Downloads\ExpertSystem (2)\ExpertSystem\obj\Debug\ExpertSystem.csproj.CoreCompileInputs.cache
+C:\Users\danil\Downloads\ExpertSystem (2)\ExpertSystem\obj\Debug\ExpertSystem.exe
+C:\Users\danil\Downloads\ExpertSystem (2)\ExpertSystem\obj\Debug\ExpertSystem.pdb
